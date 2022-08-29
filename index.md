@@ -1,6 +1,6 @@
-# welcome to mr kaptos programming portoflof
+# welcome to mr kaptpsos programming portoflof
 
 
-##porgamernnging semester 1 projects
+##poridgegraming semester 1 projects
 
-##porgamernnging semester 2 projects
+##porgraming semester 2 projects
