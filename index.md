@@ -1,4 +1,4 @@
-# welcome to Xarek Lyman's programming portfolio
+# Welcome to Xarek Lyman's programming portfolio
 
 ## programming semester 1 projects:
 
