@@ -16,7 +16,7 @@ Looping demo, liiks like static
 
 ![Static](https://github.com/Benpoopsalot/computerprograming-2023/blob/main/images/static.png?raw=true)
 
-[Source Code]()
+[Source Code](https://github.com/Benpoopsalot/computerprograming-2023/tree/main/src/Static)
 
 ## programming semester 2 projects:
 
