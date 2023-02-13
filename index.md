@@ -1,6 +1,13 @@
-# welcome to mr kaptpsos programming portoflof
+# welcome to Xarek Lyman's programming portfolio
 
+## programming semester 1 projects:
 
-##poridgegraming semester 1 projects
+### Calculator
 
-##porgraming semester 2 projects
+OOP graphical calculator using processing with keyboard functionality
+
+![Calculator]()
+
+[Source Code]()
+
+## programming semester 2 projects:
