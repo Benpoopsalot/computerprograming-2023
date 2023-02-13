@@ -6,7 +6,7 @@
 
 OOP graphical calculator using processing with keyboard functionality
 
-![Calculator]()
+![Calculator](https://github.com/Benpoopsalot/computerprograming-2023/blob/main/images/claculator.png?raw=true)
 
 [Source Code]()
 
