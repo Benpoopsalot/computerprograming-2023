@@ -14,7 +14,7 @@ OOP graphical calculator using processing with keyboard functionality
 
 Looping demo, liiks like static
 
-![Static]()
+![Static](https://github.com/Benpoopsalot/computerprograming-2023/blob/main/images/static.png?raw=true)
 
 [Source Code]()
 
