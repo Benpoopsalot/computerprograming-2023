@@ -12,7 +12,7 @@ OOP graphical calculator using processing with keyboard functionality
 
 ### Tv Static
 
-Looping demo, liiks like static
+Looping demo, looks like static
 
 ![Static](https://github.com/Benpoopsalot/computerprograming-2023/blob/main/images/static.png?raw=true)
 
